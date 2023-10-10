@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dnyaneshwar aka Dhanno
-- 👀 I’m interested in video editing, Designs, Dance, Coding, Startups
+- 👋 Hi, I’m Dnyaneshwar.
+- 👀 I’m interested in video editing, Designs, Coding, Startups
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me nano9iitd@gmail.com
 
